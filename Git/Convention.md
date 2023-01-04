@@ -35,6 +35,7 @@ emoji를 이용해 prefix를 대체할 수 있다.
 | ♻️ | :recycle: | refactor | 리팩토링 |
 | 🤡 | :clown_face: | test | test코드 추가/수정 |
 | 👷 | :construction_worker: | chore | build관련, 패키지 등 |
+
 `[gitmoji] Subject` 형태로 gitmoji로 type를 대체할 수 있다. 이 때 각 gitmoji가 무엇을 뜻하는지 정확히 정의하고 사용하도록 한다. 자세한 내용은 공식 홈페이지를 참고한다.
 
 
