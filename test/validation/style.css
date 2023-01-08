@@ -1,0 +1,15 @@
+.messageBox[aria-hidden=true] {
+  display: none;
+}
+.messageBox.errorMessage {
+  color: red;
+}
+.messageBox.OKMessage {
+  color: green;
+}
+/* p:focus-within {
+  background-color: mediumblue;
+} */
+#submit[aria-disabled=true] {
+  background-color: red;
+}
