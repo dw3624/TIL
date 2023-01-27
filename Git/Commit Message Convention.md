@@ -27,13 +27,13 @@ Emoji를 추가해 커밋 메시지를 꾸밀 수 있습니다. Type을 대체�
 예)
 | gitmoji | code | type | desc |
 | --- | --- | --- | --- |
-| ✨ | :sparkles: | feat | 새 기능 |
-| 🐛 | :bug: | fix | 버그 수정 |
-| 📝 | :memo: | docs | 문서 추가/수정 |
-| 🎨 | :art: | style | 포맷 추가/수정 |
-| ♻️ | :recycle: | refactor | 리팩토링 |
-| 🤡 | :clown_face: | test | test코드 추가/수정 |
-| 👷 | :construction_worker: | chore | build관련, 패키지 등 |
+| ✨ | `:sparkles:` | feat | 새 기능 |
+| 🐛 | `:bug:` | fix | 버그 수정 |
+| 📝 | `:memo:` | docs | 문서 추가/수정 |
+| 🎨 | `:art:` | style | 포맷 추가/수정 |
+| ♻️ | `:recycle:` | refactor | 리팩토링 |
+| 🤡 | `:clown_face:` | test | test코드 추가/수정 |
+| 👷 | `:construction_worker:` | chore | build관련, 패키지 등 |
 
 
 ### Issue Number
